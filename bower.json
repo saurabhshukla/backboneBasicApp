@@ -1,0 +1,29 @@
+{
+  "name": "BackboneBasicApp",
+  "description": "Learning backbone.",
+  "main": "",
+  "authors": [
+    "Saurabh Shukla"
+  ],
+  "license": "MIT",
+  "moduleType": [
+    "node"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.0",
+    "requirejs": "~2.1.22",
+    "handlebars": "~4.0.5",
+    "underscore": "~1.8.3",
+    "backbone": "~1.2.3",
+    "text": "requirejs-text#~2.0.14"
+  }
+}
